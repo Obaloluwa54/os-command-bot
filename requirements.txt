@@ -4,5 +4,6 @@ gitpython
 
 sublist3r  # For subdomain enumeration
 dirsearch  # Directory scanning
-openssl    # SSL info
+
+
 
