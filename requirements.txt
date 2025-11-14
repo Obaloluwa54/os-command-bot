@@ -1,7 +1,8 @@
 python-telegram-bot==20.6
 requests
 gitpython
-nmap       # System package
+
 sublist3r  # For subdomain enumeration
 dirsearch  # Directory scanning
 openssl    # SSL info
+
